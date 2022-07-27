@@ -1,5 +1,3 @@
-# Welcome To 
+# 블로그 시작합니다.
 
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
+우연히라도 들러 주셔서 감사합니다.
