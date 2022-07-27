@@ -1,9 +1,4 @@
----
-layout: default
-title:  "Welcome to Jekyll!"
----
-
-# Welcome
+# Welcome To 
 
 **Hello world**, this is my first Jekyll blog post.
 
