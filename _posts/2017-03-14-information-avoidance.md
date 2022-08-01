@@ -1,11 +1,3 @@
----
-categories:
-  - PaperSummary
-tags:
-  - economics
-  - information
----
-
 # Information Avoidance (정보 피하기)
 
 [Information Avoidance](https://www.aeaweb.org/articles?id=10.1257/jel.20151245)
