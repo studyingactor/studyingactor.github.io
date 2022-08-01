@@ -1,11 +1,11 @@
 # Information Avoidance (정보 피하기)
 
 [Information Avoidance](https://www.aeaweb.org/articles?id=10.1257/jel.20151245)
-Golman, Russell, David Hagmann, and George Loewenstein. 2017. Information Avoidance. Journal of Economic Literature, 55 (1): 96-135.
+Golman, Russell, David Hagmann, and George Loewenstein. 2017. Information Avoidance. Journal of Economic Literature, 55(1), 96--135.
 
 > We commonly think of information as a means to an end. However, a growing theoretical and experimental literature suggests that information may directly enter the agent's utility function. This can create an incentive to avoid information, even when it is useful, free, and independent of strategic considerations. We review research documenting the occurrence of information avoidance, as well as theoretical and empirical research on reasons why people avoid information, drawing from economics, psychology, and other disciplines. The review concludes with a discussion of some of the diverse (and often costly) individual and societal consequences of information avoidance.
 
-일반적으로 경제학에서는 '정보'라는 건 의사 결정을 위한 손해볼 일 없는 수단을 의미한다. 더 많이 알고 더 현명한 결정을 할 수 있을 뿐더러, 있는 정보가 불필요하면 그냥 추가비용 없이 그냥 무시하면 그만이기 때문이다.
+일반적으로 경제학에서는 \'정보\'라는 건 의사 결정을 위한 손해볼 일 없는 수단을 의미한다. 더 많이 알고 더 현명한 결정을 할 수 있을 뿐더러, 있는 정보가 불필요하면 그냥 추가비용 없이 그냥 무시하면 그만이기 때문이다.
 
 근데 실제로 많은 경우에 정보는 그 자체로 Utility를 주는 것이라는 것을 많은 연구가 이론적으로, 혹은 실험을 통해 밝혔다. 때문에 (어떤 식으로건 disutility를 주는 정보인 경우는) 의식적으로 정보를 피하는 것도 합리적이다. 여기서 정보를 피한다는 거는, 정보가 있다는 것을 확실히 알고, 그 정보를 얻는 비용이 정보를 의식적으로 피하는 비용보다 싼 경우만으로 좁혀서 생각하자. (그러니까 정보가 어딘가에 있는데, 정보를 얻는 비용이 너무 비싸다거나 하는 얘기는 여기서 제외함) 특정 질병 가능성이 있는 사람들이 진단을 거부하거나 진단을 미루는 사례들이 이에 해당할 수 있다.
 
