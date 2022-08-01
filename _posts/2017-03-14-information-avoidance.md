@@ -1,6 +1,6 @@
 ---
 categories:
-  - Paper Summary
+  - PaperSummary
 tags:
   - economics
   - information
