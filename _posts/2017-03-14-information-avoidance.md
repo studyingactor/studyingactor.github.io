@@ -1,9 +1,9 @@
 ---
 categories:
-  - PaperSummary
+- PaperSummary
 tags:
-  - economics
-  - information
+- economics
+- information
 ---
 
 # Information Avoidance (정보 피하기)
