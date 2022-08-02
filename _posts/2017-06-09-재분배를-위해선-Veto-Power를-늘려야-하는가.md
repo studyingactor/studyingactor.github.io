@@ -30,12 +30,12 @@ Static legislative bargaining 상황에서는 제안이 억셉되면 게임이 �
 
 ### Example 2
 
-1번 예시와 같은 상황에, 이번에는 4명의 동의가 있어야 되는 경우를 생각. 이러면 stable한 allocation은 (1,3,3,1;2) 같은 거임. 제안자를 제외한 나머지 네명이 두 개의 endogenous veto group으로 정해짐. 즉, \"class structure\"를 가짐. 일반적으로 5명 게임에서 4표를 얻어야 하는 dynamic game에서는 $$(x_1, x_2, x_3, x_4; x_5)$$ with $$x_1=x_2$$ and $$x_3=x_4$$, up to permutations.
+1번 예시와 같은 상황에, 이번에는 4명의 동의가 있어야 되는 경우를 생각. 이러면 stable한 allocation은 (1,3,3,1;2) 같은 거임. 제안자를 제외한 나머지 네명이 두 개의 endogenous veto group으로 정해짐. 즉, \"class structure\"를 가짐. 일반적으로 5명 게임에서 4표를 얻어야 하는 dynamic game에서는 $(x_1, x_2, x_3, x_4; x_5)$ with $x_1=x_2$ and $x_3=x_4$, up to permutations.
 
 quick check: 만약 (1,3,3,1;2) 같은 형태가 아니라면? (**1, 3, 3**, 0; 2)가 억셉된다면 다음 기에는 (**1, 3**, 0, **0**; 5)가 억셉될거고, 그 다음 기에는 (**1**, 0, **0, 0**; 9)가 억셉될거고, 그 다음 기에는 (0, **0, 0, 0**;10)이 억셉될거임.  
 
 ### Example 3
-1번 예시와 같은 상황에 이제는 veto power를 가진 사람이 players 4 and 5 두 명임. 이런 경우에 유일하게 stable한 allocation은 $$x_1 = x_2 = x_3$$ 일 때만 된다고 함. (체크 안해봄)
+1번 예시와 같은 상황에 이제는 veto power를 가진 사람이 players 4 and 5 두 명임. 이런 경우에 유일하게 stable한 allocation은 $x_1 = x_2 = x_3$ 일 때만 된다고 함. (체크 안해봄)
 
 재밌는 건, veto power를 가진 사람 수가 **늘어났음에도** distributional fairness는 더 나빠진다는 것임. 5번 플레이어만 veto power를 가지고 있었을 때 (3,3,3,0;1)이 status quo라면, 1번 플레이어에게 veto power를 추가적으로 부여하면 stability가 깨진다는 거임. 이렇게 되면 두 가지 경우가 생길 수 있는데, veto power를 가진 두 명만이 나눠먹거나 (x; 0,0,0; 10-x), non-veto power를 가진 애들이 endogenous veto group 이 되어서 조금씩 받는 형태가 되어야 함. (4;1,1,1;3) 같이... 그래야 2,3,4번 애들이 추후에 더 뱃겨먹히는 걸 막을 수 있음.
 
