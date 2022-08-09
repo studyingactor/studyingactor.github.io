@@ -7,6 +7,8 @@ tags:
   - redistribution
 ---
 
+## 재분배를 위해서는 Veto Power를 가진 사람의 수를 늘려야 하는가?
+
 [Political Economy of Redistribution](https://doi.org/10.3982/ECTA12132)
 
 Diermeier, D., Egorov, G. and Sonin, K. (2017), Political Economy of Redistribution. _Econometrica_, 85: 851--870.
