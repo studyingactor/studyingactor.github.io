@@ -7,6 +7,8 @@ tags:
   - in-group favoritism
 ---
 
+## In-group Favoritism, Team Production, and/or Predudice
+
 오늘은 AEJ AE 페이퍼 두 개를 묶어서 간단히 정리
 
 [Team Production in International Labor Markets: Experimental Evidence from the Field](https://www.aeaweb.org/articles?id=10.1257/app.20160179)
