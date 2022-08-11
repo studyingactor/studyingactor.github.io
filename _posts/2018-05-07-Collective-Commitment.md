@@ -1,4 +1,5 @@
 ---
+title: "집단적 Commitment"
 categories:
   - PaperSummary
 tags:

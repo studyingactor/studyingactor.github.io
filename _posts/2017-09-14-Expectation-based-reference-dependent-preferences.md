@@ -1,4 +1,5 @@
 ---
+title: "Expectation-based Reference-dependent Preferences"
 categories:
   - PaperSummary
 tags:
@@ -9,7 +10,7 @@ tags:
 
 ## Expectation-based Reference-dependent Preferences
 
-`요새 많이 페이퍼 따라가는 게 늦어져서, 최대한 빨리 요약만 하고 넘어가려고 함. (나중에 '어디선가 들어본 연구 같은데....' 할 때 생각날 정도면 목적을 충족했다고 말할 수 있을 듯...)`
+요새 많이 페이퍼 따라가는 게 늦어져서, 최대한 빨리 요약만 하고 넘어가려고 함. (나중에 '어디선가 들어본 연구 같은데....' 할 때 생각날 정도면 목적을 충족했다고 말할 수 있을 듯...)
 
 [The Limits of Expectations-Based Reference Dependence](https://doi.org/10.1093/jeea/jvw020)
 

@@ -1,4 +1,5 @@
 ---
+title: "Information Avoidance (정보 피하기)"
 categories:
   - PaperSummary
 tags:
