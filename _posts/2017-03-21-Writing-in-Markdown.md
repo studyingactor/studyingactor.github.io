@@ -88,6 +88,7 @@ No one---not even the president of the company---realized the company would have
 각주는 달아야 하는 위치에[^1] 이런식으로 써주고 글 끝에 
 [^1]: 설명을 이런 식으로 쓰면 됨
 
+(블로그 포맷에서는 주석이 잘 동작하지 않아 보임..)
 
 간단한 표는 다음과 같이 만들 수 있음
 
