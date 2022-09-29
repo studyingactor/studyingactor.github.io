@@ -1,5 +1,5 @@
 ---
-title: "셀프컨트롤의 이유를 구분하기"
+title: "셀프 컨트롤의 이유를 구분하기"
 categories:
   - PaperSummary
 tags:
@@ -10,7 +10,7 @@ tags:
   - menu-dependent preference
 ---
 
-## 셀프컨트롤의 이유를 구분하기
+## 셀프 컨트롤의 이유를 구분하기
 
 [Eliciting temptation and self-control through menu choices: a lab experiment](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA14172)
 
