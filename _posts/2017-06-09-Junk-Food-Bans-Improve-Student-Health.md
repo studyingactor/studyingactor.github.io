@@ -10,11 +10,8 @@ tags:
 
 ## 학교에서 정크푸드를 멀리하면 아이들이 더 건강해진다. 상식을 확인해주는 연구에 대해…
 
-[Do School Junk Food Bans Improve Student Health? Evidence from Canada](http://economics.ca/cgi/jab?journal=cpp&article=v43n2p0105)
-
-Philip S.J. Leonard, Canadian Economic Policy, 43(2), June 2017, 105--119.
-
-> Six Canadian provinces have banned the sale of junk food on school property to address child health issues such as obesity. Differences in the timing of the introduction of provincial policies provide variation in treatment across provinces, and variation within provinces comes from differences across students in the number of years of schooling during which junk food was banned. Using data from cycles of the Canadian Community Health Survey, I find that each year of a junk food ban is associated with a decline of about 0.05 body mass index. Students exposed to five or more years of a junk food ban had lower body mass index equivalent to a decrease of about two pounds for an individual who is five feet, six inches tall.
+**Do School Junk Food Bans Improve Student Health? Evidence from Canada**
+By Philip S.J. Leonard (Canadian Economic Policy 2017)
 
 요약
 - 캐나다의 6개 주에서 학교 안에서의 정크푸드 판매를 금지함
