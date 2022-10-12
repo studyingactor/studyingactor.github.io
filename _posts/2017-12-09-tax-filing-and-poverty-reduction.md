@@ -12,9 +12,11 @@ tags:
 
 [The Persistent Reduction in Poverty from Filing a Tax Return](https://www.aeaweb.org/articles?id=10.1257/pol.20150486)
 
-Ramnath, Shanthi P., and Patricia K. Tong. 2017. "The Persistent Reduction in Poverty from Filing a Tax Return." _American Economic Journal: Economic Policy_, 9 (4): 367--394.
+By Shanthi P. Ramnath and Patricia K. Tong. (2017 AEJ:EP)
 
+<!--
 > Low-income households not required to file often fail to receive benefits provided through the tax code. In 2008, the US government made people with at least $3,000 in earnings eligible for a stimulus payment if they filed a tax return. Using eligibility for this credit as an instrument for filing, we find with administrative data that filing reduces the probability of living in poverty in future years, which is a result of increases in EITC claiming, workforce attachment, and earnings. These results demonstrate that temporary incentives to participate in the tax system have persistent real effects on economic activity and poverty.
+-->
 
 3000불 이하의 소득을 얻는 최빈층이 세금보고를 하면 stimulus payment를 받을 수 있게 하는 법안이 2008년에 도입되었음. 쌓인 데이터를 확인해보니, 한번 세금보고를 하게 되면, 최빈층을 벗어나는 지속적인 효과가 있다는 걸 알게 됨. EITC (Earned Income Tax Credit: 저소득층이 노동공급의 끈을 놓치 않게 하기 위해, (저소득층에 한해) 번 만큼 세금 보조를 줌.) 도 늘고, workforce attachment 도 늘었음.
 
