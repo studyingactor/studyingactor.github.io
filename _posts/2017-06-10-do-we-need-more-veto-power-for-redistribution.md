@@ -14,7 +14,9 @@ tags:
 
 Diermeier, D., Egorov, G. and Sonin, K. (2017), Political Economy of Redistribution. _Econometrica_, 85: 851--870.
 
+<!--
 > It is often argued that additional constraints on redistribution such as granting veto power to more players in society better protects property from expropriation. We use a model of multilateral bargaining to demonstrate that this intuition may be flawed. Increasing the number of veto players or raising the supermajority requirement for redistribution may reduce protection on the equilibrium path. The reason is the existence of two distinct mechanisms of property protection. One is formal constraints that allow individuals or groups to block any redistribution that is not in their favor. The other occurs in equilibrium where players without such powers protect each other from redistribution. Players without formal veto power anticipate that the expropriation of other similar players will ultimately hurt them and thus combine their influence to prevent redistributions. In a stable allocation, the society exhibits a “class” structure with class members having equal wealth and strategically protecting each other from redistribution.
+-->
 
 ### 한줄요약
 더 공평한 재분배를 위해서는 veto power를 가진 사람들이 많으면 좋을 거라고 생각하는데, dynamic한 상황에서 multilateral bargaining을 하면 그 반대일 수도 있다.
