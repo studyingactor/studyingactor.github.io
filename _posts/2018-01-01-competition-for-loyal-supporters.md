@@ -11,9 +11,11 @@ tags:
 
 [Competing for Loyalty: The Dynamics of Rallying Support](https://www.aeaweb.org/articles?id=10.1257/aer.20150755)
 
-Iaryczower, Matias, and Santiago Oliveros. 2017. "Competing for Loyalty: The Dynamics of Rallying Support." American Economic Review, 107 (10): 2990--3005.
+by Matias Iaryczower and Santiago Oliveros. (2017 AER)
 
+<!--
 > We consider a class of dynamic collective action problems in which either a single principal or two competing principals vie for the support of members of a group. We focus on the dynamic problem that emerges when agents negotiate and commit their support to principals sequentially. We show that competition reduces agents' welfare with public goods, or if and only if there are positive externalities on uncommitted agents, and increases agents' welfare with public bads. We apply the model to the study of corporate takeovers, vote buying, and exclusive deals.
+-->
 
 
 (여러 다른 컨텍스트에서 모형이 이해될 수 있지만, 기본적으로) 두 정치가가 본인이 원하는 policy의 implementation을 위해서 유권자들의 지지를 순차적으로 얻는 경우를 고려했음. 재밌는 결과는 모두에게 도움이 되는 policy인 경우 (public good) 두 정치가가 경쟁하는 것보다 한 명이 지지를 얻기 위해 노력하는 것이 유권자들의 welfare측면에서 도움이 되고, 그 반대인 경우 (public bads) 두 정치가가 경쟁하는 것이 도움이 됨.
