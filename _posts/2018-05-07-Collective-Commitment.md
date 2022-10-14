@@ -11,9 +11,11 @@ tags:
 
 [Collective Commitment](https://www.journals.uchicago.edu/doi/abs/10.1086/694294)
 
-Christian Roessler, Sandro Shelegia, and Bruno Strulovici (2018). Collective Commitment, _Journal of Political Economy_, 126:1, 347--380.
+by Christian Roessler, Sandro Shelegia, and Bruno Strulovici (2018 JPE)
 
+<!--
 > We consider collective decisions made by agents whose preferences and power depend on past events and decisions. Faced with an inefficient equilibrium and an opportunity to commit to a policy, can the agents reach an agreement on such a policy? We provide a consistency condition linking power structures in the dynamic setting and at the commitment stage. When the condition holds, commitment has no value: any agreement that may be reached at the outset coincides with the equilibrium without commitment. When the condition fails, as in the case of time-inconsistent preferences, commitment can improve outcomes. We discuss several applications.
+-->
 
 옛날에 time inconsistency를 그룹이 자발적으로 모여서 해소하는 방법을 찾느라 self-commitment in peer groups라는 가제 하에 연구를 해보려는 주제가 있었는데, Self-Control in Peer Groups by Battaglini, Benabou, and Tirole (2005 JET), Collective Self-Control by Lizzeri and Yariv (2017 AER), 그리고 이 페이퍼 세 개로 대충 하고자 하는 굵직한 바는 다 나온 것 같음...
 
