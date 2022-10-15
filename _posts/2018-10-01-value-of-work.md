@@ -6,6 +6,7 @@ categories:
 tags:
   - economics
   - labor utility
+  - value of work
 ---
 
 ## 노동의 가치?
