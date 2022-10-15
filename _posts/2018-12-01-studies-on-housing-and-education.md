@@ -29,4 +29,4 @@ by Eric Chyn
 <!--
 >This paper provides new evidence on the effects of moving out of disadvantaged neighborhoods on the long-run outcomes of children. I study public housing demolitions in Chicago, which forced low-income households to relocate to less disadvantaged neighborhoods using housing vouchers. Specifically, I compare young adult outcomes of displaced children to their peers who lived in nearby public housing that was not demolished. Displaced children are more likely to be employed and earn more in young adulthood. I also find that displaced children have fewer violent crime arrests. Children displaced at young ages have lower high school dropout rates.
 -->
-두 번째 페이퍼는, 가난한 환경의 애들이 우연한 기회(살던 공공주택을 정부에서 demolish하게 되어 다른 지역으로 옮겨짐)로 좋은 환경으로 옮기게 되면 장기적으로도 긍정적이 효과가 크다: 돈도 더 벌고, 범죄도 덜 저지르고, 학교도 덜 중퇴함.
+두 번째 페이퍼는, 가난한 환경의 애들이 우연한 기회(살던 공공주택을 정부에서 demolish하게 되어 다른 지역으로 옮겨짐)로 좋은 환경으로 옮기게 되면 장기적으로도 긍정적이 효과가 크다는 걸 : 돈도 더 벌고, 범죄도 덜 저지르고, 학교도 덜 중퇴함.
