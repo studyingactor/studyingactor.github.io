@@ -14,10 +14,11 @@ tags:
 
 [Eliciting temptation and self-control through menu choices: a lab experiment](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA14172)
 
-Toussaert, S. (2018), Eliciting Temptation and Self-Control Through Menu Choices: A Lab Experiment. Econometrica, 86: 859--889.
+By Séverine Toussaert (2018 Econometrica)
 
+<!--
 > Unlike present-biased individuals, agents who suffer self-control costs as in Gul and Pesendorfer, 2001 may choose to restrict their choice set even when they expect to resist temptation. To identify these self-control types, I design an experiment in which the temptation was to read a story during a tedious task. The identification strategy relies on a two-step procedure. First, I measure commitment demand by eliciting subjects' preferences over menus that did or did not allow access to the story. I then implement preferences using a random mechanism, allowing to observe subjects who faced the choice yet preferred commitment. A quarter to a third of subjects can be classified as self-control types according to their menu preferences. When confronted with the choice, virtually all of them behaved as they anticipated and resisted temptation. These findings suggest that policies restricting the availability of tempting options could have larger welfare benefits than predicted by standard models of present bias.
-
+-->
 
 실험경제학은 그 근원적 한계 (weak external validity) 때문에 Econometrica에 출판되기 어렵다는 생각을 보통 하는데, 꼭 그런 건 아니다. 실험 페이퍼를 Job market paper로 들고 나온 (지금은 아주 좋은 학교의 교수들이지만, 제출 당시에는) 대학원생들도 Econometrica에 출판을 하니까.
 
