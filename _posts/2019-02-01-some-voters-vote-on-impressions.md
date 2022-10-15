@@ -1,5 +1,5 @@
 ---
-title: "감성 투표자들 (AEJ:Micro 2019)"
+title: "감성 투표자들"
 categories:
   - PaperSummary
 tags:
@@ -8,11 +8,12 @@ tags:
 ---
 
 **Impressionable Voters**
-By Costel Andonie and Daniel Diermeier
-(AEJ: Micro Jan 2019)
 
+by Costel Andonie and Daniel Diermeier  (AEJ:Micro 2019)
+
+<!--
 > We propose a model of impressionable voters. Impressionable voters vote based on impressions rather than maximizing expected utility. We apply our model to elections with multiple candidates and solve for the stationary distributions of the implied stochastic process. In elections with two candidates, we find that impressionable voters select the candidate that maximizes utilitarian welfare. In multi-candidate elections, Condorcet winners are elected provided that a majority of voters is able to sufficiently distinguish competing candidates. In such cases, models with impressionable voters may have better normative properties than models with rational voters.
-
+-->
 
 "감성" 투표자들
 
