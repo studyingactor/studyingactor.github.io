@@ -1,5 +1,5 @@
 ---
-title: "프라이버시와 데이터 정확성 (AER 2019)"
+title: "프라이버시와 데이터 정확성"
 categories:
   - PaperSummary
 tags:
@@ -10,10 +10,11 @@ tags:
 
 **An Economic Analysis of Privacy Protection and Statistical Accuracy as Social Choices**
 
-By John M. Abowd and Ian M. Schmutte
+By John M. Abowd and Ian M. Schmutte  (AER 2019)
 
+<!--
 > Statistical agencies face a dual mandate to publish accurate statistics while protecting respondent privacy. Increasing privacy protection requires decreased accuracy. Recognizing this as a resource allocation problem, we propose an economic solution: operate where the marginal cost of increasing privacy equals the marginal benefit. Our model of production, from computer science, assumes data are published using an efficient differentially private algorithm. Optimal choice weighs the demand for accurate statistics against the demand for privacy. Examples from US statistical programs show how our framework can guide decision-making. Further progress requires a better understanding of willingness-to-pay for privacy and statistical accuracy.
-
+-->
 
 빅 데이터에 대한 담론이 한참 유행이더니 그도 다소 지나간 듯 하다만, 빅 데이터 활용에 대한 이슈들은 여전히 유효하게 남아있다. 그 중 가장 중요한 이슈는 아마도 differential privacy일 것이다. Target에서 여고생이 있는 집에 출산/육아용품 광고지를 보내서 그 집 아버지가 화를 냈는데, 알고보니 빅데이터를 분석해서 아버지보다 먼저 여고생의 임신을 Target이 알고있었다는 이야기가 differential privacy를 잘 나타내는 사례이다. 각각의 데이터가 익명으로 처리된다 하더라도 모든 가용한 데이터를 합쳐서 정확히 구분하면(differentiate) 개인적인(private) 정보를 찾아낼 수 있다는 것이, 아주 거칠게 요약한 differential privacy의 정의이다. 즉, 빅데이터가 난무하는 이 시기에는 통계적 정확성과 프라이버시가 trade-off관계에 있다는 거다.
 
