@@ -13,10 +13,11 @@ tags:
 
 [Identifying Higher-Order Rationality](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA11983)
 
-Kneeland, T. (2015), Identifying Higher-Order Rationality. Econometrica, 83: 2065--2079.
+by Terry Kneeland (2015 Econometrica)
 
+<!--
 > Strategic choice data from a carefully chosen set of ring-network games are used to obtain individual-level estimates of higher-order rationality. The experimental design exploits a natural exclusion restriction that is considerably weaker than the assumptions underlying alternative designs in the literature. In our data set, 93 percent of subjects are rational, 71 percent are rational and believe others are rational, 44 percent are rational and hold second-order beliefs that others are rational, and 22 percent are rational and hold at least third-order beliefs that others are rational.
-
+-->
 
 실험경제학은 그 근원적 한계 (weak external validity) 때문에 Econometrica에 출판되기 어렵다는 생각을 보통 하는데, 꼭 그런 건 아니다. 실험 페이퍼를 Job market paper로 들고 나온 (지금은 아주 좋은 학교의 교수들이지만, 제출 당시에는) 대학원생들도 Econometrica에 출판을 하니까.
 
