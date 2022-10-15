@@ -12,7 +12,8 @@ tags:
 ## 가족을 위한 정책이 여자에겐 해가 된다고?
 
 [Equal but Inequitable: Who Benefits from Gender-Neutral Tenure Clock Stopping Policies?](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20160613)
-Heather Antecol, Kelly Bedard and Jenna Stearns, American Economic Review 2018, 108(9): 2420–-2441
+
+by Heather Antecol, Kelly Bedard, and Jenna Stearns (AER 2018)
 
 Working paper 버전으로 돌아다녔을때 Justin Wolfers가 뉴욕타임즈 기고문에 인용하여 유명했던 페이퍼가 AER에 나왔다. 페이퍼보다는 기고문이 더 읽기 쉬우니 여기 링크를 걸겠다: 
 <a href="https://www.nytimes.com/2016/06/26/business/tenure-extension-policies-that-put-women-at-a-disadvantage.html" target="_blank">Tenure extention policies that put women at a disadvantage</a>
