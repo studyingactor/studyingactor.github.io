@@ -12,9 +12,11 @@ tags:
 
 [When to Confront: The Role of Patience](https://www.aeaweb.org/articles?id=10.1257/mic.20150309)
 
-Sandroni, Alvaro, and Can Urgun. 2018. "When to Confront: The Role of Patience." _American Economic Journal: Microeconomics_, 10 (3): 219--252.
+By Alvaro Sandroni and Can Urgun. (2018 AEJ:Micro)
 
+<!--
 > This paper examines the effects of patience on ordinary conflicts such as divorce, price wars and commercial litigation. Players optimally decide when, if ever, to start a destructive confrontation. In the unique equilibrium, there is a tight connection between patience, aggressiveness and strength. In particular patience may lead to immediate confrontation (the most inefficient outcome). This inefficiency is caused by preemptive moves that deny option values to the opponent.
+-->
 
 초록만 보고, 페이퍼는 눈으로만 훒어봄.
 
