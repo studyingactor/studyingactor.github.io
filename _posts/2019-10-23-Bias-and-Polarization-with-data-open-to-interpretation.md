@@ -10,11 +10,11 @@ tags:
 
 **Updating Beliefs When Evidence Is Open To Interpretation: Implications For Bias And Polarization**
 
-by Roland G. Fryer, Jr., Philipp Harms, and Matthew O. Jackson
-(JEEA 2019 Oct)
+by Roland G. Fryer, Jr., Philipp Harms, and Matthew O. Jackson (JEEA 2019)
 
+<!--
 > We introduce a model in which agents observe signals about the state of the world, and some signals are open to interpretation. Our decision makers first interpret each signal based on their current belief and then form a posterior on the sequence of interpreted signals. This ‘double updating’ leads to confirmation bias and can lead agents who observe the same information to polarize. We explore the model’s predictions in an on-line experiment in which individuals interpret research summaries about climate change and the death penalty. Consistent with the model, there is a significant relationship between an individual’s prior and their interpretation of the summaries; and over half of the subjects exhibit polarizing behavior. (JEL: D10, D80, J15, J71, I30)
-
+-->
 
 이 페이퍼는 아주 마음에 든다. confirmation bias를 open-to-interpretation evidence에 대한 first-stage belief update ("열린 해석이 있을때 어떤 방향으로 해석하는가?")라고 생각해서 모형을 푼건데, 이 'double updating'을 고려하면 같은 정보를 보고서도 어떻게 belief polarization이 일어날 수 있는지를 자연스럽게 설명할 수 있다. voter behavior같은 것도 이어서 생각해 볼 수 있을 듯 하다.
 
