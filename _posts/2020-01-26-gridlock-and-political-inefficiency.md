@@ -14,7 +14,9 @@ by David Austen-Smith, Wioletta Dziuda, Bård Harstad, and Antoine Loeper
 
 (TE 2019)
 
+<!--
 > Why do rational politicians choose inefficient policy instruments? Environmental regulation, for example, often takes the form of technology standards and quotas even when cost-effective Pigou taxes are available. To shed light on this puzzle, we present a stochastic game with multiple legislative veto players and show that inefficient policy instruments are politically easier than efficient instruments to repeal. Anticipating this, heterogeneous legislators agree more readily on an inefficient policy instrument. We describe when inefficient instruments are likely to be chosen, and predict that they are used more frequently in (moderately) polarized political environments and in volatile economic environments. We show conditions under which players strictly benefit from the availability of the inefficient instrument.
+-->
 
 Political economy + Microeconomics 하면 자연스럽게 생각날 법한 저자 조합이다. (Wioletta Dziuda 는 전에 만난 적 있는데 생각보다 개인 역량이 뛰어나지는 않았던 듯...)
 
