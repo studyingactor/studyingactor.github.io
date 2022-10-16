@@ -13,9 +13,7 @@ tags:
 **Comparing the chosen: Selection bias when selection is competitive**
 
 by Thomas Noe
-
-Forthcoming JPE (2020 January)
-
+(JPE 2020 January)
 
 오랜만에 contest관련 재밌는 페이퍼를 봤다. 안타깝게도 다른 일들이 바빠서 모든걸 자세히 읽지는 못했고, motivating example만 잘 정리하고 넘어가려고 한다.
 
