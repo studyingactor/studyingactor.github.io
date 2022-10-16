@@ -9,13 +9,14 @@ tags:
 
 **The Many Faces of Human Sociality: Uncovering the Distribution and Stability of Social Preferences**
 
-By Adrian Bruhin, Ernst Fehr, and Daniel Schunk
-(JEEA 2019, Vol 17 Issue 4)
+by Adrian Bruhin, Ernst Fehr, and Daniel Schunk
+(JEEA 2019)
 
+<!--
 > We uncover heterogeneity in social preferences with a structural model that accounts for outcome- based and reciprocity-based social preferences and assigns individuals to endogenously determined preferences types. We find that neither at the aggregate level nor when we allow for several distinct preference types do purely selfish types emerge, suggesting that other-regarding preferences are the rule and not the exception. There are three temporally stable other-regarding types. When ahead, all types value others' payoffs more than when behind. The first, strongly altruistic type puts a large weight on others' payoffs even when behind and displays moderate levels of reciprocity. The second, moderately altruistic type also puts positive weight on others' payoff, yet at a lower level, and displays no positive reciprocity. The third, behindness averse type puts a large negative weight on others' payoffs when behind and is selfish otherwise. In addition, we show that individual-specific estimates of preferences offer only very modest improvements in out-of-sample predictions compared to our three-type model. Thus, a parsimonious model with three types captures the bulk of the information about subjects' social preferences. (JEL: C49, C91, D03)
+-->
 
-
-outcome-based social preference와 reciprocity-based social preference를 개인별로 확인해 봤더니 크게 세 타입으로 나눠진다.
+이 페이퍼는 outcome-based social preference와 reciprocity-based social preference를 개인별로 확인해 봤더니 크게 세 타입으로 나눠진다는 걸 보고했다.
 
 * 아주 altruistic한 타입: 내가 덜 받는 경우라도 다른 애들의 payoff를 많이 신경쓰고, reciprocal하게 행동함
 * 적당히 altruistic한 타입: 나보다 못 받는 애들의 payoff를 신경쓰지만 그 반대의 경우는 아니고, reciprocal하게 행동하지도 않음.
