@@ -22,7 +22,7 @@ Working paper 버전으로 돌아다녔을때 Justin Wolfers가 뉴욕타임즈 
 
 이유는 뉴욕타임즈 기고문의 그림에서 잘 나타난다. 아이가 태어나서 테뉴어 심사가 1년 늦어지면, 남자는 그 시간에 연구를 더 하고, 여자는 1년 동안 오롯이 육아에 시간과 체력을 많이 쓰고, 그 후에도 여전히 육아를 더 하게 되기 때문에 그 정책의 혜택을 못받는다는 건데...
 
-많은 사람들이 지적하듯이, 숫자가 ridiculously 크다... 너무 크다.
+많은 사람들이 지적하듯이, 숫자가 믿을만한 숫자라고 하기에는 좀 크다... 너무 크다.
 
 working paper 버전을 가지고 논리적으로 비판한 블로그가 있어서 가져온다. AER페이퍼에는 몇몇 지적이 반영되어 있다고는 하는데, 숫자 자체에 큰 변화는 없다. 링크는 여기 있다: <a href="https://thehardestscience.com/2016/06/28/dont-change-your-family-friendly-tenure-extension-policy-just-yet/" target="_blank">Don't change your family-friendly tenure extension policy just yet.</a>
 
