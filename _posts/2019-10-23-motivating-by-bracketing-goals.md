@@ -14,7 +14,9 @@ by Alexander K.Kocha and Julia Nafziger (JET forthcoming)
   
 JET에는 실험 페이퍼가 많이 나오는 건 아닌데, 이론이랑 실험이 잘 합쳐져 있는 좋은 페이퍼가 간혹 나오기도 한다. 이번에 나오는 페이퍼는 goal setting에 대한 간단한 이론과 실험을 합쳐서 좋은 결론을 냈다.
 
+<!--
 > We study theoretically and experimentally how the bracketing of non-binding goals in a repeated task affects the level of goals that people set for themselves, the actual effort provided, and the pattern of effort over time. In our model, a sophisticated or partially naive individual sets either daily or weekly goals to overcome a motivational problem caused by present-biased preferences. In an online, real-effort experiment, we randomly allocated subjects to treatments where they set either daily goals for how much to work over a one-week period or a single weekly goal. Consistent with the theoretical predictions, in the treatment with daily goals, the aggregate goal level for the week was higher and subjects provided more effort compared to the treatment with a weekly goal. The higher effort was driven by the higher aggregate goal level. Additional treatments complemented internal commitment through goals with an externally enforced minimum work requirement to get started working each day.
+-->
 
 내가 아주 좋게 본 건, 저자들이 글을 잘썼다는 거다. 요새 하도 글쓰기 자체가 잘 안되어 있는 낮은 수준의 페이퍼들을 심사하는 경우가 많아서---이것도 아마 내 능력 때문일거다. 닭 잡는 데 소 잡는 칼 쓸 필요 없듯이, 좋지 않은 페이퍼는 급 낮은 심사자가 심사해도 쉽게 리젝이니까---이 페이퍼는 읽기에 좋았다. 그리고 더 좋게 본 건 논리적 설득 과정이 아주 유기적이라는 거다. 내 요약이 저자들 글쓰기보다 허접할 수 있다만, 더 과도하게 요약하면:
 
