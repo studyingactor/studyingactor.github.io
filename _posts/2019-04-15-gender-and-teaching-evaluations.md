@@ -12,9 +12,11 @@ tags:
 **Gender Bias In Teaching Evaluations**
 
 by Friederike Mengel, Jan Sauermann, and Ulf Zölitz
-(JEEA 2019년 4월호)
+(JEEA 2019년)
 
+<!--
 > This paper provides new evidence on gender bias in teaching evaluations. We exploit a quasi-experimental dataset of 19,952 student evaluations of university faculty in a context where students are randomly allocated to female or male instructors. Despite the fact that neither students' grades nor self-study hours are affected by the instructor's gender, we find that women receive systematically lower teaching evaluations than their male colleagues. This bias is driven by male students' evaluations, is larger for mathematical courses and particularly pronounced for junior women. The gender bias in teaching evaluations we document may have direct as well as indirect effects on the career progression of women by affecting junior women's confidence and through the reallocation of instructor resources away from research and towards teaching.
+-->
 
 대학에서 젊은 여교수가 수학 관련된 내용을 가르치면 학생들에게 더 낮은 평가를 받는다는 걸 보고했다. 이거 나오고 나서 여기저기서 얘기가 많은데, 페이퍼를 내가 아주 꼼꼼히 읽어볼 관심까지는 없으니, 그냥 훑어본 대로, 그리고 남들이 언급한 말 중 설득력 있어 보이는 것들을 몇 개 적는다.
 
