@@ -30,7 +30,7 @@ by Timothy N. Bond and Kevin Lang
 
 by Carsten Schröder and Shlomo Yitzhaki (EER 2017)
 
-> Well-being (life satisfaction or happiness) is a latent variable that is impossible to observe directly. `[...`] survey questionnaires usually ask people to rate their well-being in different domains. `[...`] the fact that well-being is an ordinal variable. Since data is ordinal, monotonic increasing transformations are permissible. We illustrate the sensitivity of empirical studies to monotonic transformations using examples `[...`]. In our examples, monotonic increasing transformations can in fact reverse the conclusion reached.
+> Well-being (life satisfaction or happiness) is a latent variable that is impossible to observe directly. `[ ... `] survey questionnaires usually ask people to rate their well-being in different domains. `[ ... `] the fact that well-being is an ordinal variable. Since data is ordinal, monotonic increasing transformations are permissible. We illustrate the sensitivity of empirical studies to monotonic transformations using examples `[ ... `]. In our examples, monotonic increasing transformations can in fact reverse the conclusion reached.
 
 생각
 - 초록만 놓고 보면, 중요한 클레임은 동일하다. 만약 이 페이퍼가 인용되었다면, 심사자가 저 페이퍼를 잘 알고 있었다면, JPE 페이퍼가 JPE에 나올 수 있었을까... 하는 의문이 든다. '행복 지수에 대한 슬픈 사실'이 '좋은 저널 출판에 대한 슬픈 사실'을 떠오르게 한다. 
