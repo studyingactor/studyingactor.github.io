@@ -10,10 +10,11 @@ tags:
   
 **Multidimensional Reasoning in Games: Framework, Equilibrium, and Applications**
 
-By Ayala Arad and Ariel Rubinstein (AEJ Micro 2019년 8월호)
+by Ayala Arad and Ariel Rubinstein (AEJ Micro 2019)
 
+<!--
 >We develop a framework for analyzing multidimensional reasoning in strategic interactions, which is motivated by two experimental findings: (i) in games with a large and complex strategy space, players tend to think in terms of strategy characteristics rather than the strategies themselves; (ii) in their strategic deliberation, players consider one characteristic at a time. A multidimensional equilibrium is a vector of characteristics representing a stable mode of behavior: a player does not wish to modify any one characteristic. The concept is applied to several economic interactions, where a vector of characteristics, rather than a distribution of strategies, is identified as stable.
-
+-->
 
 루빈스타인 교수님 페이퍼는 항상 쉬운 게임이 소개되어 있어서 읽기 편하다. 이번거는 사람들이 전략적으로 (즉, 남의 전략에 best respond하는 전략을 선택하는 방식으로) 행동한다기 보다는, 전략의 특성들을 묶어서 분류한 다음에, 그중에 제일 좋은 카테고리에서 선택을 하는 경향이 많이 보이기에, 이를 모형화 해 본거다. 그리고 나서는 많은 실험 페이퍼들의 결과들을 이 컨셉에 맞춰서 설명해 보았음.
 
