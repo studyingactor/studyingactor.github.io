@@ -8,11 +8,6 @@ tags:
   - fertility
 ---
 
-<item>
-  CESifo working paper (March 2020)
-  Sat, 18 Apr 2020 20:12:00 +0000
-
-
 **Pensions and Fertility: Micro-Economic Evidence**
 
 by Alexander M. Danzer and Lennard Zyska (CESifo working paper No. 8173)
