@@ -22,6 +22,6 @@ Republicans은 과거와 현재를 비교하여 정책 개선을 지지하는 �
 
 거칠게 요약하면, Republicans에게 평범한 저수지 사진(A)과 그곳의 물이 대부분 말라버린 사진(B)를 병기하고, (A: past, B: Present)라고 보여줬을 때 친환경정책에 우호적인 정도가 (A: Present, B: Future)라고 보여줬을 때보다 더 크다는 것을 보고함. (아래 그림 참조: 출처 Elephant Butte Reservoir, NM. Image courtesy of NASA.)
 
-![Elephant Butte Reservior](/asset/images/reservoir.jpg).
+![Elephant Butte Reservior](/assets/images/reservior.jpg).
 
 Framing을 잘 쓴 페이퍼임.
