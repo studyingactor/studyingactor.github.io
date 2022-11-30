@@ -7,6 +7,8 @@ tags:
   - primary education
 ---
 
+## 교육비 지출과 군사 경쟁
+
 **Education And Military Rivalry**
 
 by Philippe Aghion, Xavier Jaravel, Torsten Persson, and Dorothée Rouzet (JEEA 2019)
