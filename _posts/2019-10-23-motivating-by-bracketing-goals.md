@@ -8,6 +8,8 @@ tags:
   - present-biased preferences
 ---
 
+## 목표 묶음으로 동기 부여하기
+
 **Motivational goal bracketing: An experiment** 
 
 by Alexander K.Kocha and Julia Nafziger (JET forthcoming)
