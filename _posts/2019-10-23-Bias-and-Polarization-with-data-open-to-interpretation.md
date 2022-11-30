@@ -8,6 +8,8 @@ tags:
   - inference from the sample
 ---
 
+## 해석이 열려있을 때 Belief를 업데이트하면, bias가 강해질 수 있다. 
+
 **Updating Beliefs When Evidence Is Open To Interpretation: Implications For Bias And Polarization**
 
 by Roland G. Fryer, Jr., Philipp Harms, and Matthew O. Jackson (JEEA 2019)
