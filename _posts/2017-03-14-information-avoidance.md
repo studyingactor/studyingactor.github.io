@@ -8,6 +8,8 @@ tags:
   - behavioral
 ---
 
+## 정보 피하기
+
 ** Information Avoidance**
 
 By Russell Golman, David Hagmann, and George Loewenstein. (JEL 2017)
