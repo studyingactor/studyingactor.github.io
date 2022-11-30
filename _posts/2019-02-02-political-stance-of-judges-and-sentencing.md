@@ -10,6 +10,8 @@ tags:
   - gender disparity
 ---
 
+## 판사의 정치성향이 인종과 성별에 따른 형량에 미치는 영향
+
 **Judicial Politics and Sentencing Decisions**
 
 By Alma Cohen and Crystal S. Yang
