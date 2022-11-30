@@ -1,5 +1,5 @@
 ---
-title: "참을성 높은 사람이 이혼을 먼저함?"
+title: "참을성 많은 사람이 이혼을 먼저함?"
 categories:
   - PaperSummary
 tags:
@@ -8,7 +8,7 @@ tags:
   - theory
 ---
 
-## 참을성 높은 사람이 이혼을 먼저함?!
+## 참을성 많 사람이 이혼을 먼저함?!
 
 [When to Confront: The Role of Patience](https://www.aeaweb.org/articles?id=10.1257/mic.20150309)
 
