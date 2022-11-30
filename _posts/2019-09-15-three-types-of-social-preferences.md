@@ -7,6 +7,8 @@ tags:
   - social preferences
 ---
 
+## Social Preference는 크게 세 타입으로 분류하면 될 거다
+
 **The Many Faces of Human Sociality: Uncovering the Distribution and Stability of Social Preferences**
 
 by Adrian Bruhin, Ernst Fehr, and Daniel Schunk
