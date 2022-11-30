@@ -7,6 +7,8 @@ tags:
   - voter behavior 
 ---
 
+## 감성 투표자들
+
 **Impressionable Voters**
 
 by Costel Andonie and Daniel Diermeier  (AEJ:Micro 2019)
