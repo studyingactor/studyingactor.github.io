@@ -8,6 +8,8 @@ tags:
   - education
 ---
 
+## 집과 교육에 대한 두 연구
+
 타이틀을 써 놓고 보니 자녀 있는 집에서 제일 중요하게 생각하는 두 가지네... 이런거 연구해야 AER에 나오는군...
 
 **Housing Booms and Busts, Labor Market Opportunities, and College Attendance**
