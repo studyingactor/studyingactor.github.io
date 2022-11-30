@@ -8,7 +8,7 @@ tags:
   - health policy
 ---
 
-<h2>식민지 시절 강제의약이 남긴 영향</h2>
+##식민지 시절 강제의약이 남긴 영향
 
 **The Legacy of Colonial Medicine in Central Africa**
 
