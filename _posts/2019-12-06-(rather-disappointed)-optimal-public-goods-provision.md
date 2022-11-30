@@ -8,6 +8,8 @@ tags:
   - micro theory
 ---
 
+## (다소 실망한) 공공재의 최적 제공 방법
+
 **All or nothing: State capacity and optimal public goods provision**
 
 by Felix Bierbrauer and Justus Winkelmann
