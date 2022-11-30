@@ -9,11 +9,11 @@ tags:
   - theory
 ---
 
+## 기술 발전과 Time Inconsistency
 
 **Technology and Time Inconsistency**
 
-by Bard Harstad
-(JPE Forthcoming) 
+by Bard Harstad (JPE 2020) 
 
 <!--
 > A growing body of evidence suggests that individuals have time-inconsistent preferences. Even when they do not, policy makers who fear to loose elections will apply discount rates that decrease in relative time when they consider investment projects. To influence future choices, current strategic investments or investment subsidies should be larger for technologies that are strategic complements to future investments, further upstream in the supply chain, and characterized by longer maturity. A quantitative assessment suggests that time inconsistency can rationalize subsidies at similar levels as market failures such as externalities can. Furthermore, the two effects are superadditive: Time inconsistency and strategic investments are thus especially important for long-term policies associated with externalities.
