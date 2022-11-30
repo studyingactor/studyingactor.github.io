@@ -1,5 +1,5 @@
 ---
-title: "날이 더우면 판결이 가혹하다 (AEJ:EP 2019)"
+title: "날이 더우면 판결이 가혹하다"
 categories:
   - PaperSummary
 tags:
@@ -8,12 +8,14 @@ tags:
   - racial disparity
   - gender disparity
 ---
- 
+
+## 날이 더우면 판결이 가혹하다
+
 나는 American Economic Journal: Economic Policy를 좋아한다. 여러모로 재밌는--어떻게 보면 웃긴--결과를 다루기도 하고, 내가 하지 않는 류의 연구를 다루니까. 2019년 4월 호는 기록할 만한 게 좀 있어서 세 포스팅에 나눠서 올린다. 세번째 포스팅이다. 
 
 **Temperature and Decisions: Evidence from 207,000 Court Cases**
 
-by Anthony Heyes and Soodeh Saberian
+by Anthony Heyes and Soodeh Saberian (AEJ:EP 2019)
 
 이 페이퍼는 수개월 전에 forthcoming 단계에 있을 때부터 많이 회자되었다. (아마도 충격적인 결과 때문에 working paper였을 적에도 사람들이 관심이 있었을텐데, 나는 몇 개월 전에 회자될 때부터 인지했다.) "텍사스에서, 온도가 화씨 10도 (약 섭씨 5.6도) 높은 날에는 판사들이 6.55% 덜 우호적인 판결을 내렸다"는 게 결론. '텍사스 모든 곳의 실내에는 에어컨이 있는데, 이게 말이 되느냐?'와 비슷한 질문/비판을 많이 받았는지, abstract에도 "This is despite judgements being made indoors, "protected" by climate control."라고 썼다. 온도가 무드에 영향을 미치고, 무드가 판단에 영향을 미친다는 흔한 스토린데, 확실히 이목을 집중시키는 재밌는 결과다. 얼마나 엄밀하게 분석했는는 안읽어봐서 모르겠으나, 읽어본 사람 말로는 매우 꼼꼼하게 robustness check을 했고, 발표를 들은 사람 말로는 placebo test도 굉장히 많이 했다는 듯 하다. 
 
@@ -23,3 +25,4 @@ by Anthony Heyes and Soodeh Saberian
 
 **2022년 9월 29일 업데이트**
 데이터와 코딩 에러가 위 결과를 이끌었고, 위 결과가 spurious한 결과일 수 있다는 [코멘트](https://pubs.aeaweb.org/doi/pdfplus/10.1257/app.20200118)가 AEJ: EP 2022년 10월호에 나왔다. 원 저자들이 코멘트에 지적된 에러를 수정하였고, 그 후에도 크게 결과가 변하지 않는다는 류의 [답신](https://pubs.aeaweb.org/doi/pdfplus/10.1257/app.20200068)을 했다. (중요 결과의 통계적 유의수준이 1%에서 5%로 올라갔다.) 더 읽지 않고는 이 결과를 더 곧이곧대로 받아들이면 안될 듯 하다. 
+
