@@ -7,7 +7,9 @@ tags:
   - game theory
   - reasoning
 ---
-  
+
+## 전략을 카테고리로 묶어서 사고하기
+
 **Multidimensional Reasoning in Games: Framework, Equilibrium, and Applications**
 
 by Ayala Arad and Ariel Rubinstein (AEJ Micro 2019)
