@@ -9,6 +9,8 @@ tags:
   - inference from samples
 ---
 
+## 행복 지수에 대한 슬픈 사실
+
 행복 지수는 비교하기 어렵다.
 
 **The Sad Truth about Happiness Scales**
