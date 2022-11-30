@@ -6,7 +6,10 @@ tags:
   - privacy
   - statistical analysis  
   - data
+  - differential privacy
 ---
+
+## 프라이버시와 데이터 정확성
 
 **An Economic Analysis of Privacy Protection and Statistical Accuracy as Social Choices**
 
