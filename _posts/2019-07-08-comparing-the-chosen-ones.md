@@ -10,10 +10,11 @@ tags:
   - inference from selected sample
 ---
 
-**Comparing the chosen: Selection bias when selection is competitive**
+## 선택된 것들을 비교(하여 추측)하기
 
-by Thomas Noe
-(JPE 2020 January)
+**Comparing the chosen: Selection bias when selection is competitive**
+
+by Thomas Noe (JPE 2020)
 
 오랜만에 contest관련 재밌는 페이퍼를 봤다. 안타깝게도 다른 일들이 바빠서 모든걸 자세히 읽지는 못했고, motivating example만 잘 정리하고 넘어가려고 한다.
 
