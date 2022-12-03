@@ -8,6 +8,8 @@ tags:
   - cheating
 ---
 
+## 보고 배운 Corruption?
+
 **The Power of Example: Corruption Spurs Corruption**
 
 By Nicolás Ajzenman (AEJ: AE 2021)
