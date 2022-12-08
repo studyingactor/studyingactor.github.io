@@ -3,9 +3,9 @@ title: "Reputation 함정"
 categories:
   - PaperSummary
 tags:
-  - policital economy
-  - unintended consequences
-  - political accountability
+  - information economics
+  - reputation
+  - history dependence
 ---  
 
 ## Reputation 함정. 나쁜 reputation은 좋아지기 힘드니 좋아지지 않는다.
