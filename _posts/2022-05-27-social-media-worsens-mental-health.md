@@ -8,7 +8,7 @@ tags:
   - difference-in-differences
 --- 
 
-##소셜 미디어가 정신건강에 미치는 악영향
+## 소셜 미디어가 정신건강에 미치는 악영향
 
 <!--
 https://www.cesifo.org/en/publikationen/2022/working-paper/social-media-and-mental-health
