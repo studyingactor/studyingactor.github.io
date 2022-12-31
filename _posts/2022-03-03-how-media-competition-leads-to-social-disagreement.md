@@ -9,7 +9,6 @@ tags:
 --- 
 
 ## 미디어의 경쟁과 사회적 분열
-  Thu, 03 Mar 2022 05:17:57 +0000
 
 **Media Competition and Social Disagreement**
 
