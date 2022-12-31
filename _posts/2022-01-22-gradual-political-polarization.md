@@ -25,7 +25,7 @@ by Steven Callander and Juan Carlos Carbajal  (JPE 2022)
 아주 러프하게 요약하면, 프로세스가 이렇게 진행된다.
 
 1. ideology spectrum이 적당히 떨어져 있는 두 정당이 있음. 
-2. 가운데 있는 부동층은 abstain 하고, 선호가 변화지 않음.
+2. 가운데 있는 부동층은 abstain 하고, 선호가 변하지 않음.
 3. 왼(오른)편에 있는 유권자들은 왼(오른)쪽 정당에 투표하고, 그 정당의 ideology 쪽으로 아주 살짝 선호가 옮겨짐
 4. 다음 기에 두 정당은 abstension하는 중간층은 놔두고, 자기 정당에 투표해 줄 유권자들의 turnout을 높일 수 있는 ideology stance를 전략적으로 정함.
 5. 위의 4단계를 반복
