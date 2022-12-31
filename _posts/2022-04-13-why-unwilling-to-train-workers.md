@@ -9,7 +9,6 @@ tags:
 --- 
 
 ## 직업훈련 시키기를 꺼리는 이유
-  Wed, 13 Apr 2022 11:18:36 +0000
 
 **Unwilling to Train?---Firm Responses to the Colombian Apprenticeship Regulation**
 
