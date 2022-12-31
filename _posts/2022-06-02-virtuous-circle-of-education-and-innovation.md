@@ -9,7 +9,6 @@ tags:
 --- 
 
 ## 고등교육과 혁신의 선순환
-  Thu, 02 Jun 2022 16:19:46 +0000
 
 **The Education-Innovation Gap**
 
