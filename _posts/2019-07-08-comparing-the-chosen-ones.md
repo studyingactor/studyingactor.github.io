@@ -3,7 +3,6 @@ title: "선택된 것들을 비교하기"
 categories:
   - PaperSummary
   - Thoughts
-  - Research Idea
 tags:
   - affirmative action
   - sample selection
