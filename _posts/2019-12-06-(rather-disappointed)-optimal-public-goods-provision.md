@@ -22,8 +22,8 @@ by Felix Bierbrauer and Justus Winkelmann
 
 저자중 한 명과 공저를 할 수도 있었어서, 관심 가지고 읽었다. 아주 짧은 페이펀데, abstract만 읽으면 아주 뭐 공공재 제공 문제 (Public goods provision problem)을 외부적인 제약 없이도 풀어낸 것처럼 대단하게 포장했어서 기대했는데, 모형 부분 가니까 바로 관심이 식었다. 이런거다
 
-* 사람이 n명이 있음. I={1,...,n}
-* 공공 프로젝트가 m 개 있음. 각 공공재의 제공 비용은 1임. K=`{1,...m`}
+* 사람이 n명이 있음. I=\{1,...,n\}
+* 공공 프로젝트가 m 개 있음. 각 공공재의 제공 비용은 1임. K=\{1,...m\}
 * 사람 i가 프로젝트 k에 대해 가지는 value가 알려진 분포에서 나옴. 그 분포의 평균은 **_1보다 크다고 가정하겠음._** (이게 거의 열일함)
 * ex-post incentive and participation constraints를 고려함.
 * all-or-nothing mechanism: 모든 공공 프로젝트에 대한 각 사람의 평균 value가 1보다 크면 모든 프로젝트를 uniform tax를 통해 수행함. 그렇지 않으면 모든 프로젝트를 안함.
