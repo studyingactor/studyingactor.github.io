@@ -10,7 +10,7 @@ tags:
 
 ## 박사과정 학생들의 정신건강
 
-** Graduate Student Mental Health: Lessons from American Economics Departments**
+**Graduate Student Mental Health: Lessons from American Economics Departments**
 
 by Valentin Bolotnyy, Matthew Basilico, and Paul Barreira (JEL 2022)
 
