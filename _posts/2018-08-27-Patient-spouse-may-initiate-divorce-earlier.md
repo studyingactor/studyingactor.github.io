@@ -10,7 +10,7 @@ tags:
 
 ## 참을성 많 사람이 이혼을 먼저함?!
 
-[When to Confront: The Role of Patience](https://www.aeaweb.org/articles?id=10.1257/mic.20150309)
+**When to Confront: The Role of Patience** <!--(https://www.aeaweb.org/articles?id=10.1257/mic.20150309)-->
 
 By Alvaro Sandroni and Can Urgun. (2018 AEJ:Micro)
 
