@@ -10,7 +10,7 @@ tags:
 
 ## 집단적 셀프 컨트롤
 
-[Collective Self-Control](https://doi.org/10.1257/mic.20150325)
+**Collective Self-Control** <!--(https://doi.org/10.1257/mic.20150325)-->
 
 by Alessandro Lizzeri and Leeat Yariv. (2017 AEJ:Micro)
 
