@@ -9,7 +9,7 @@ tags:
 
 ## Experimenter demand effect가 크지 않다.
 
-[Measuring and Bounding Experimenter Demand](https://www.aeaweb.org/articles?id=10.1257/aer.20171330)
+**Measuring and Bounding Experimenter Demand** <!--(https://www.aeaweb.org/articles?id=10.1257/aer.20171330)-->
 
 by Jonathan de Quidt,Johannes Haushofer, and Christopher Roth (2018 AER)
 
