@@ -25,19 +25,19 @@ chatGPT는 2022년 11월 30일에 등장했고, 내 마지막 블로그 포스�
 
 그러니 교과서에 나올법한 (= 누군가가 인터넷 어딘가에 정리해서 올린) 유명한 옛날 논문은 아주 잘 요약을 한다. 내 분야는 아니고, 다른 교수님이 물어보셔서 Nelson and Ploser (1982)를 요약시켰더니 나온 결과는 아래에 있다.
 
-![chatGPT1](/assets/images/screenshot_chatGPT1.png)
+![chatGPT1](/assets/images/Screenshot_chatGPT1.png)
 
 최신 논문이나 working paper를 요약하는 내 블로그는 여전히 유용한지 확인하기 위해, 지난 1월 9일 포스팅에 다룬 NBER워킹페이퍼 "Willingness to Accept, Willingness to Pay, and Loss Aversion" by by Jonathan Chapman, Mark Dean, Pietro Ortoleva, Erik Snowberg, and Colin Camerer를 요약해보라 시켰다.
 
-![chatGPT2](/assets/images/screenshot_chatGPT2.png)
+![chatGPT2](/assets/images/Screenshot_chatGPT2.png)
 
 요약이라기 보다는 제목에 있는 세 개의 키워드를 설명하였다. 그래서 영어로 물어봤다.
 
-![chatGPT3](/assets/images/screenshot_chatGPT3.png)
+![chatGPT3](/assets/images/Screenshot_chatGPT3.png)
 
 그랬더니 2021년 9월 이후 정보는 반영되어있지 않으니 답해줄 수 없다고 한다. 그래서 2018년에 출판되었고, 내 블로그에서 다룬 적이 있는 [링크](https://studyingactor.github.io/papersummary/Experimenter-Demand-Effect-doesnt-seem-significant/) American Economic Review 페이퍼를 요약해보라고 시켰다.
 
-![chatGPT3](/assets/images/screenshot_chatGPT4.png)
+![chatGPT3](/assets/images/Screenshot_chatGPT4.png)
 
 (아마 앞 내용에 이어서 그랬겠지만 2021년 9월 이후에 나온 페이퍼면 답해줄 수 없다길래, 이거 2018년에 출판된거라고 다시 정보를 줬더니 사과를 하면서 답을 해줬다.) 아주 그럴싸하게 요약을 한 것 처럼 보이지만, 결과를 보면 **반대로** 해석을 했다. 페이퍼의 결과는 Experimenter demand effect가 크지 않다는 건데, chatGPT는 "Their findings highlight the importance of considering experimenter demand effects when interpreting experimental results"라고 맺고 있다.
 
