@@ -37,8 +37,12 @@ chatGPT는 2022년 11월 30일에 등장했고, 내 마지막 블로그 포스�
 
 그랬더니 2021년 9월 이후 정보는 반영되어있지 않으니 답해줄 수 없다고 한다. 그래서 2018년에 출판되었고, 내 블로그에서 다룬 적이 있는 [링크](https://studyingactor.github.io/papersummary/Experimenter-Demand-Effect-doesnt-seem-significant/) American Economic Review 페이퍼를 요약해보라고 시켰다.
 
-![chatGPT3](/assets/images/Screenshot_chatGPT4.png)
+![chatGPT4](/assets/images/Screenshot_chatGPT4.png)
 
 (아마 앞 내용에 이어서 그랬겠지만 2021년 9월 이후에 나온 페이퍼면 답해줄 수 없다길래, 이거 2018년에 출판된거라고 다시 정보를 줬더니 사과를 하면서 답을 해줬다.) 아주 그럴싸하게 요약을 한 것 처럼 보이지만, 결과를 보면 **반대로** 해석을 했다. 페이퍼의 결과는 Experimenter demand effect가 크지 않다는 건데, chatGPT는 "Their findings highlight the importance of considering experimenter demand effects when interpreting experimental results"라고 맺고 있다.
+
+물론 chatGPT를 바탕으로 해서 아주 똑똑하게 최신 논문을 잘 요약하는 방법을 찾을 수 있는 것을 알고 있다. PDF파일 자체를 업로드해서 읽게 시킨 후 이를 정리해 달라고 시킬 수 있는 앱을 이용하거나, 중요한 문단을 옮겨 붙인 뒤에 이걸 요약해 달라고 하는 것도 방법이다. 하지만, 내용의 진위 여부는 어차피 사람이 한 번 더 확인해야 하는 거니까 일을 한 번 더 한다는 차원에서 여전히 블로그로 논문을 요약해서 올리는 건 도움이 될 수도 있지 않을까... 싶다. 참고로, "수도가 Z로 시작하는 나라의 이름은?"이라는 간단한 질문도, 한번에 정답을 찾지 못하는 사례를 아래에 가져왔다. 
+
+![chatGPT5](/assets/images/Screenshot_chatGPT5.png)
 
 그러니.... 블로그 포스팅은 계속해도 될 것 같다. 남은 건 내가 안 게을러지는 것 뿐..
