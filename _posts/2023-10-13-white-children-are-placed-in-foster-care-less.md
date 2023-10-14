@@ -1,5 +1,5 @@
 ---
-title: "(도움이 필요한) 백인 아이들이 흑인 아이들에 비해 보육시설에 덜 간다"
+title: "(도움이 필요한) 백인 아이들이 흑인 아이들에 비해 위탁시설에 덜 간다"
 categories:
   - PaperSummary
 tags:
@@ -8,7 +8,7 @@ tags:
   - matreatment potential
 --- 
 
-## (도움이 필요한) 백인 아이들이 흑인 아이들에 비해 보육시설에 덜 간다
+## (도움이 필요한) 백인 아이들이 흑인 아이들에 비해 위탁시설에 덜 간다
 
 **Racial Discrimination in Child Protection**
 
