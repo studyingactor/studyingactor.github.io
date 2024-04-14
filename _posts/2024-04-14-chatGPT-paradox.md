@@ -8,8 +8,6 @@ tags:
   - paradox
 --- 
 
-## chatGPT 사용의 패러독스: 정말 모르겠는 거는, 물어보면 도움이 안됨
-
 **From helping hand to stumbling block: the ChatGPT paradox in competency experiment**
 
 by Duk Gyoo Kim and Ahram Moon (AEL, 2024)
@@ -20,9 +18,9 @@ We ran a controlled laboratory experiment to examine whether ChatGPT’s aid can
 
 
 나는 chatGPT나 노동생산성 관련 연구를 이제껏 해본 적이 없었는데, 우연한 기회로 국책연구원 일을 돕게 되었고, 그 요약본을 대단치 않은 저널에 출판했다. 출판된지 며칠 안되었는데, 학계보다는 트위터 사용자들에게 인용이 많이 되는 것처럼 보인다. 
---
-논문 링크는 여기에 있으니, 혹시라도 소셜미디어에 언급하고 싶다면 해주세요: [https://doi.org/10.1080/13504851.2024.2337330](https://doi.org/10.1080/13504851.2024.2337330)
---
+
+(논문 링크는 여기에 있으니, 혹시라도 소셜미디어에 언급하고 싶다면 해주세요: [https://doi.org/10.1080/13504851.2024.2337330](https://doi.org/10.1080/13504851.2024.2337330))
+
 
 ### 한줄요약부터 하면: 
 실험참여 그룹을 랜덤하게 둘로 나눠서, 처치그룹만 chatGPT를 쓰게 하고 여러 가지 문제를 해결하게 했더니, 처치그룹의 수리적 문제해결 점수가 유의미한 수준으로 *낮아졌다*. 
