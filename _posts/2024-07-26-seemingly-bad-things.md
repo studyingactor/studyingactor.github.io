@@ -14,7 +14,8 @@ tags:
 
 오늘은 비슷한 시기에 나온 두 개의 working paper를 위의 제목으로 묶어본다.
 
-** Third-Degree Price Discrimination in Two-Sided Markets **
+**Third-Degree Price Discrimination in Two-Sided Markets**
+
 by Alexandre de Cornière, Andrea Mantovani, Shiva Shekhar (CESifo Working Paper 10618)
 
 <!--
@@ -25,7 +26,8 @@ We investigate the welfare effects of third-degree price discrimination by a two
 위 연구는 two-sided market (흔히 말하는 플랫폼시장)에서는 3도 가격차별이 소비자 후생 역시 증가시킬 수 있다는 것을 이론적으로 밝혔다. 아이디어는 간단하다. 플랫폼에서는 시장세분화를 한다는 것이 (원래는 없었던) 공급을 만들어서, 그 그룹의 수요자에게 재화와 서비스를 구해 후생을 높일 가능성을 열어주는 것을 의미한다는 것.
 
 
-** The Bright Side of Tax Evasion **
+**The Bright Side of Tax Evasion**
+
 by Wladislaw Mill and Cornelius Schneider (CESifo Working Paper 10615)
 
 <!--
