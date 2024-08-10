@@ -1,5 +1,5 @@
 ---
-title: "도시 가면 돈을 덜 버는 줄 아는 시골 부모들"
+title: "도시 가면 돈을 생각보다 덜 버는 줄 아는 시골 부모들"
 categories:
   - PaperSummary
 tags:
@@ -12,7 +12,8 @@ tags:
 
 논문 초록 읽다가 헛웃음 치는 일은 드문데, 웃겨서 가져옴. 
 
-** (11) Hidden Income and the Perceived Returns to Migration **
+**Hidden Income and the Perceived Returns to Migration**
+
 by Travis Baseler (2023, AEJ: Applied)
 
 <!--
