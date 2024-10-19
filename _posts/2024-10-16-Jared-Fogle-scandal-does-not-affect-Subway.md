@@ -13,7 +13,7 @@ tags:
 
 상식과 다른 연구 결과를 엄밀하게 보여주는 시도는 응원하게 된다. 그래서 아래 논문도 좋게 봄.
 
-** The Role of Repugnance in Markets: How the Jared Fogle Scandal Affected Patronage of Subway **
+**The Role of Repugnance in Markets: How the Jared Fogle Scandal Affected Patronage of Subway**
 by John Cawley, Julia Eddelbuettel, Scott Cunningham, Matthew D. Eisenberg, Alan D. Mathios, and Rosemary J. Avery (NBER WP#31782)
 
 <!--
