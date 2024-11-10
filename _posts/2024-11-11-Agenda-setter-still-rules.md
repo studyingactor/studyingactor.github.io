@@ -9,7 +9,7 @@ tags:
   - manipulability
 --- 
 
-## 의제를 정하는 사람(agenda setter)가 결국 다 가진다.
+## 의제를 정하는 사람(agenda setter)이 결국 다 가진다.
 
 **Who Controls the Agenda Controls the Legislature**
 
