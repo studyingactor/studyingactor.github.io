@@ -13,7 +13,7 @@ tags:
 
 **Who Controls the Agenda Controls the Legislature**
 
-by By S. Nageeb Ali, B. Douglas Bernheim, Alexander W. Bloedel, and Silvia Console Battilana (AER 2023)
+By S. Nageeb Ali, B. Douglas Bernheim, Alexander W. Bloedel, and Silvia Console Battilana (AER 2023)
 
 <!--
 We model legislative decision-making with an agenda setter who can propose policies sequentially, tailoring each proposal to the status quo that prevails after prior votes. Voters are sophisticated, and the agenda setter cannot commit to future proposals. Nevertheless, the agenda setter obtains her favorite outcome in every equilibrium regardless of the initial default policy. Central to our results is a new condition on preferences, manipulability, that holds in rich policy spaces, including spatial settings and distribution problems. Our findings therefore establish that, despite the sophistication of voters and the absence of commitment power, the agenda setter is effectively a dictator.
