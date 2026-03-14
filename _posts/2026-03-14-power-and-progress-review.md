@@ -1,5 +1,5 @@
 ---
-title: "책 리뷰: 아세모글루 & 존슨 『권력과 진보』 요약"
+title: "책 리뷰: 아세모글루 & 존슨 『권력과 진보』"
 categories:
   - BookReview
 tags:
