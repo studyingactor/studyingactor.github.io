@@ -20,7 +20,7 @@ tags:
 **Positive and Negative Selection in Bargaining**
 
 by Dongkyu Chang, Duk Gyoo Kim, and Wooyoung Lim (Journal of Economic Theory, 2026)
-
+(2026년 7월 7일까지 유효한 무료 억세스: [https://authors.elsevier.com/c/1n7H950walS~I](https://authors.elsevier.com/c/1n7H950walS~I))
 > In the standard dynamic screening problem between an uninformed seller and a privately informed buyer, theory suggests that the presence (absence) of the buyer's outside option leads to a substantial surplus for the seller (buyer). This outcome arises from contrasting unraveling processes that theory predicts: negative selection occurs in the absence of an outside option, while positive selection occurs in the presence of it. We examine the validity of these contrasting unraveling processes and report laboratory data that qualitatively deviate from theoretical predictions. We found that the seller's profit ranking was reversed between the two environments. In particular, in the presence of an outside option, the buyer frequently rejected current-round offers, leading to pervasive delays; and the seller's reported beliefs about the buyer's type were qualitatively more consistent with the negative selection than with the theoretically predicted positive selection.
 
 경제학에서 가장 유명한 역설 중 하나인 **코즈의 추측(Coase Conjecture)**는, 독점 판매자가 (이질적인 지불의향에 대한 정보를 본인들만 알고 있는) 구매자들과 시간을 두고 가격 협상을 할 때, 결국 판매자는 가격을 가장 낮은 수준까지 내릴 수 밖에 없다는 이론이다. 왜냐하면, 제시된 가격에 살 의향이 있는 구매자들부터 먼저 물건을 사고 빠져버리면, 시장에는 지불의향이 낮은 구매자들만 남기에, 판매자는 가격을 낮추게 되고, 높은 지불의향이 있는 구매자들 중 일부도 다음 기에 가격이 낮아질 걸 기대하며 구매를 미루기 때문이다. 남아있는 수요 집단의 지불의향이 위에서부터 깎여 나가기에 이 과정을 **'부정적 선택(Negative Selection)'**이라고 부른다. 결국 독점 판매자는 헐값에 물건을 넘기게 되어 큰 이윤을 남기지 못하게 된다.
