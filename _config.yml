@@ -269,4 +269,5 @@ defaults:
       layout: single
       author_profile: true
       toc_ads: true
+      classes: wide
       
