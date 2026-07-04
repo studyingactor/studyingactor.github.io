@@ -261,6 +261,7 @@ defaults:
       share: true
       related: true
       toc_ads: true
+      classes: wide
   - scope:
       path: "_pages"
       type: pages
