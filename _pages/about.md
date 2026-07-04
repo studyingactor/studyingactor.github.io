@@ -2,6 +2,7 @@
 title: "블로그 소개"
 permalink: /about/
 layout: single
+classes: wide
 ---
 
 ## 반갑습니다.
